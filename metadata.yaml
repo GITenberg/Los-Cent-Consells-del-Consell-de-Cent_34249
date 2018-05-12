@@ -1,0 +1,30 @@
+_repo: Los-Cent-Consells-del-Consell-de-Cent_34249
+_version: 0.1.0
+alternative_title: Los Cent Consells del Consell de Cent
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gener, Pompeyo
+    aliases:
+    - Gener i Babot, Pompeu
+    - Gener, Pompeu
+    birthdate: 1848
+    deathdate: 1920
+    gutenberg_agent_id: '36903'
+    url: http://www.gutenberg.org/2009/agents/36903
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34249'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Proverbs, Catalan'
+title: Los Cent Conçeyls del Conçeyl de Cent
+url: http://www.gutenberg.org/ebooks/34249
